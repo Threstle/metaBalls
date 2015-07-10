@@ -1,0 +1,19 @@
+{
+  "name": "starterKitWeb",
+  "version": "0.0.0",
+  "authors": [
+    "Alice Corbitt <Arthayko@hotmail.fr>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "dat-gui": "~0.5.1"
+  }
+}
